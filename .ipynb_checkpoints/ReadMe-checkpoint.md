@@ -1,19 +1,18 @@
-#projekat za istrazivanje podataka
+U ovom projektu, biće istražene različite metode klasifikacije slika na skupu podataka planeta i satelita Sunčevog sistema.  
 
-git status
+Projekat se sastoji iz dva dela:  
+- Klasifikacija posebno planeta, posebno satelita
+- - varijanta sa i bez veštački generisanih slika i povećanja osnovne baze
+- Klasifikacija planeta i satelita odjednom
+- - takođe, varijanta sa i bez veštački generisanih slika
+ 
+Za korišćenje koda, neophodno je imati instaliranu biblioteku cv2:
+''' pip install opencv-python '''
 
-git pull
+Klasifikacija je sprovedena uz pomoć tensorflow biblioteke.
+''' pip install tensorflow-gpu ''' 
 
-git add .\imefajla
+Autori:
+Petra Ignjatović
+Todor Todorović 
 
-git commit -m "poruka"
-
- git push
-
- git checkout -b "nova grana"
-
- git checkout "vec postoji grana"
-
- git branch
-
- git stash
