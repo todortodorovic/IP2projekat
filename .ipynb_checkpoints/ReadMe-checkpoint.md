@@ -12,7 +12,7 @@ Za korišćenje koda, neophodno je imati instaliranu biblioteku cv2:
 Klasifikacija je sprovedena uz pomoć tensorflow biblioteke.
 ''' pip install tensorflow-gpu ''' 
 
-Autori:
-Petra Ignjatović
-Todor Todorović 
-
+Autori:  
+Petra Ignjatović  
+Todor Todorović   
+  
