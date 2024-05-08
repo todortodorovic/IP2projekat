@@ -14,5 +14,6 @@ Klasifikacija je sprovedena uz pomoć tensorflow biblioteke.
 
 Autori:  
 Petra Ignjatović  
-Todor Todorović   
+Todor Todorović 
+
   
